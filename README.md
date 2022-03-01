@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsusxv
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript and python
+- 🌱 I’m currently learning javascript CSS 
 - 💞️ I’m looking to collaborate on tetrio
 - 📫 How to reach me ...
 
